@@ -48,7 +48,7 @@ give, but here are some key points (from an user perspective):
 * automatic reloading of .merlin files (when they are update or created), it
   is no longer necessary to restart merlin
 * introduced a small refactoring command: rename, who renames all occurences
-  of an identifier. See: ![](http://yawdp.com/~def/rename.webm)
+  of an identifier. See: ![http://yawdp.com/~def/rename.webm](merlin-2-0-0-released-rename.png)
 
 This release also contains contributions from: Yotam Barnoy, Jacques-Pascal
 Deplaix, Geoff Gole, Rudi Grinberg, Steve Purcell and Jan Rehders.
